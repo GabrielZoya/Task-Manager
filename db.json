@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Parcial",
+      "day": "30/09/2021 a las 12:00 ",
+      "reminder": false
+    },
+    {
+      "text": "Cumpleaños",
+      "day": "10/10/2021 15:00 hs",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
